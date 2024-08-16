@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## ICON CREDITS : THE MOST IMPORTANT PART :
+[CREDITS](https://www.flaticon.com/free-icons/muscle)
+
 ## Available Scripts
 
 In the project directory, you can run:
